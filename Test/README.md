@@ -17,13 +17,13 @@ Folgende Browserspiele enthalten Kolibris:
 # Kolibri Gattungen
 
 - Langfederkolibris
-	- Pferdkolibri
-	- Rabeliekolibri
-	- Umzugskolibri
+  - Pferdkolibri
+  - Rabeliekolibri
+  - Umzugskolibri
 
 - Grosskolibris
-	- Königinkolibri
-	- Vogtkolibri
+  - Königinkolibri
+  - Vogtkolibri
 
 # Aufzucht
 
