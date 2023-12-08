@@ -37,4 +37,19 @@ Die Aufzucht von Kolibris kann in 3 Phasen aufgeteilt werden:
 
 Sprüche zum Kolibri-Tag:
 
-> Hallo
+> Ein Kolibri schlägt sein Flügel schneller als Khabib McGregor.
+
+# Moin-Kolibri-Programm
+
+Hier findet man den Code:
+
+´´´
+import Colibri
+
+ascii_banner = clfiglet.figlet_format ("Moin Coli!!")
+print (ascii_banner)
+´´´
+
+## Offene Checks
+
+- [ ] Hallo, wie ~~geht~~ **es** *dir*?
