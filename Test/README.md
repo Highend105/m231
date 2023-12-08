@@ -43,12 +43,12 @@ Sprüche zum Kolibri-Tag:
 
 Hier findet man den Code:
 
-´´´
+```
 import Colibri
 
 ascii_banner = clfiglet.figlet_format ("Moin Coli!!")
 print (ascii_banner)
-´´´
+```
 
 ## Offene Checks
 
