@@ -30,4 +30,9 @@
 
 7. Einige Firmen werden mit dem Wort “Datenkraken” assoziiert. Nennen Sie Beispiele und Hintergründe!
 
-    - 
+    - Einige Unternehmen gelten als "Datenkraken", weil sie große Mengen persönlicher Daten sammeln und nutzen. Facebook ist bekannt für die Erfassung von Nutzerinformationen zur gezielten Werbung. Google speichert Suchanfragen, Standorte und mehr für personalisierte Dienste. Amazon verfolgt das Kaufverhalten für Empfehlungen. Diese Firmen geraten oft in Kritik wegen Datenschutzbedenken und des Potenzials für Datenmissbrauch oder -handel. Sie betonen jedoch auch, dass sie Datenschutzrichtlinien haben und die Daten zur Verbesserung ihrer Dienste verwenden.
+
+
+### Persönliche Reflexion
+
+Während des Auftrags habe ich das Grundprinzip von Cookies verstanden und mein Wissen auch gleich anwenden können. So habe ich verschiedene Techniken im Umgang mit Cookies kennengelernt, dabei stand das Thema Datenschutz immer im Zentrum. Allgemein bleibt das bekannte Grundprinzip weiterhin bestehen, es geht darum möglichst vorsichtig mit persönlichen Daten umzugehen und diese nicht einfach so herauszugeben. Bei Cookies muss man besonders vorsichtig sein, da sie für viele Enduser kein richtiger Begriff sind und somit grosse Mengen an Personendaten sammeln.
